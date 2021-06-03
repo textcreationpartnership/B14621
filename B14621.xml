@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The despairing lover, whose minde was much tormented, because of his true-love hee thought hee was prevented To the tune of, Aime not too high.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14621</idno><idno type="EEBO-CITATION">99835228</idno>
+  <idno type="VID">198419</idno>
+  <idno type="EEBO-PROQUEST">2240936046</idno>
+  
+            <idno type="STC">STC 16861</idno>
+            <idno type="STC">STC 17186</idno>
+            <idno type="PROQUEST">99835228</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99835228e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14621)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198419)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2123:81a/83a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The despairing lover, whose minde was much tormented, because of his true-love hee thought hee was prevented To the tune of, Aime not too high.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for F. Coules, dwelling in the Old-Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1633?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Breake heart and dye, I may no longer liue,".</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts; part 2 has caption title: A constant and a kinde maid.</note>
+                  <note>Printed on the verso of STC 11154.</note>
+                  <note>Imperfect as filmed on Early English books, 1475-1640, reel 851: part 2 only.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:198419:1"/>
+            <head>
+               <l>
+                  <hi>The Despairing Lover,</hi>
+               </l>
+               <l>
+                  <hi>Whose minde was much tormented,</hi>
+               </l>
+               <l>
+                  <hi>Because of his True-Love</hi>
+               </l>
+               <l>
+                  <hi>Hee thought hee was prevented.</hi>
+               </l>
+            </head>
+            <opener>To the tune of, Aime not too high.</opener>
+            <p>
+               <figure>
+                  <figDesc>nobleman with sword</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>noblewoman with fan</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>BReake heart and dye, I may no longer live,</l>
+               <l>To enioy this world nothing that I will give,</l>
+               <l>I live forlorne my ioyes are from me fled,</l>
+               <l>I have lost my love, alacke my heart is dead.</l>
+            </lg>
+            <lg>
+               <l>Each thing on earth continueth with his Love,</l>
+               <l>The pretty Pigeon and the Turtle Dove,</l>
+               <l>And divers others in the world I know,</l>
+               <l>But my Love will not séeme to love me so.</l>
+            </lg>
+            <lg>
+               <l>I little thought what now I true doe finde,</l>
+               <l>I did not déeme my Love would be unkind:</l>
+               <l>But 'tis no newes, for many prov<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> untrue,</l>
+               <l>And so doth mine, for she bids me adieu.</l>
+            </lg>
+            <lg>
+               <l>But séeing 'tis so, Ile turne a Palmer poore,</l>
+               <l>And I will range abroad the World halfe ore,</l>
+               <l>To sée if I can find some dismall Cave,</l>
+               <l>There will I dwell, there will I make my grave.</l>
+            </lg>
+            <lg>
+               <l>I will goe travell in some other Land,</l>
+               <l>To <hi>France,</hi> to <hi>Spaine,</hi> or <hi>Turkie</hi> out of hand,</l>
+               <l>Where unto strangers there will I complaine,</l>
+               <l>How that my Love hath me unkindly slaine.</l>
+            </lg>
+            <lg>
+               <l>If I doe land upon some other shore,</l>
+               <l>Whereas no man did ever land before;</l>
+               <l>Then shall I thinke my selfe a happy man,</l>
+               <l>Because my death no man shall understand.</l>
+            </lg>
+            <lg>
+               <l>There will I write my fill of my true Love:</l>
+               <l>Did I say true? What fury did me move,</l>
+               <l>To count her true, that alwayes proves unkind,</l>
+               <l>And is as fickle as the wavering wind?</l>
+            </lg>
+            <lg>
+               <l>Since she was faire and lovely in my sight,</l>
+               <l>She was my ioy and all my hearts delight:</l>
+               <l>But now her smiles are turn'd from frownes &amp; i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>To kill my heart with woe is her desire.</l>
+            </lg>
+            <lg>
+               <l>Bright <hi>Phoebus</hi> beames are darkned in the ski<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>When as the stormes of <hi>Boreas</hi> doe arise:</l>
+               <l>Yet he doth quickly shine after the raine,</l>
+               <l>But my coy Mistris will not love againe</l>
+            </lg>
+            <lg>
+               <l>I would I were ith' middest of the Seas,</l>
+               <l>In some broken Vessell if the Fates did please,</l>
+               <l>Where neither love nor comfort can be found,</l>
+               <l>But every houre expecting to be drown'd.</l>
+            </lg>
+            <lg>
+               <l>My spéeches all doe but prolong my paine.</l>
+               <l>For I did never saile the Ocean maine:</l>
+               <l>Nor will I suffer life in me to bide,</l>
+               <l>So long to wait the time of winde or tide.</l>
+            </lg>
+            <lg>
+               <l>Séeing 'tis so, toth' Wildernesse Ile hie,</l>
+               <l>Among wild beasts, where I intend to dye,</l>
+               <l>Where Lyons, Beats, &amp; other wild beasts mourne</l>
+               <l>The Dragon, Elephant, and Vnicorne.</l>
+            </lg>
+            <lg>
+               <l>Thus many wishes have I wisht in vaine,</l>
+               <l>But none of those will rid me out of paine:</l>
+               <l>This piercing Poniard now shall and the strifs,</l>
+               <l>And kill my heart, that loathes this mortall life.</l>
+            </lg>
+            <lg>
+               <l>This being spoken forth his Love did rush,</l>
+               <l>Beholding him with many a changing blush:</l>
+               <l>O hold quoth she, and heare what I must say:</l>
+               <l>Doe not despaire, nor worke thy lives decay.</l>
+            </lg>
+            <lg>
+               <l>You Maidens faire I pray come lend an eare,</l>
+               <l>And you shall heare how true she doth appeare:</l>
+               <l>She gave him comfort in his troubled mind,</l>
+               <l>And ever after proved loving kind.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb facs="tcp:198419:2"/>
+            <head>
+               <l>
+                  <hi>A constant and a kinde Maid.</hi>
+               </l>
+               <l>
+                  <hi>Which saved a proper Young-mans life,</hi>
+               </l>
+               <l>
+                  <hi>And after proved his loving Wife.</hi>
+               </l>
+            </head>
+            <opener>To the same tune.</opener>
+            <p>
+               <figure>
+                  <figDesc>nobleman</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>noblewoman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>COntent thy selfe my love and doe not dye,</l>
+               <l>Thy life I love, thy death I doe defie;</l>
+               <l>Live then in ioy, and seeke to banish paine,</l>
+               <l>Take a good heart, and I will love againe.</l>
+            </lg>
+            <lg>
+               <l>All things on earth doth love its chosen Mate,</l>
+               <l>And thou contemnest me and sayest I hate;</l>
+               <l>Men love by fancie, Birds they love by kind,</l>
+               <l>Then fancie me and thou shalt favour finde.</l>
+            </lg>
+            <lg>
+               <l>For all the good that ever <hi>Craesus</hi> wonne,</l>
+               <l>I will not seeme to leave my love alone;</l>
+               <l>No, no, my Love, I will not prove untrue,</l>
+               <l>Nor will I change my old friend for a new.</l>
+            </lg>
+            <lg>
+               <l>Thou shalt not need to turne a Palmer poore,</l>
+               <l>For I for thee have Gold and Silver store;</l>
+               <l>Instead of finding out a desart place</l>
+               <l>Thou shalt have me within thine armes t'imbrace</l>
+            </lg>
+            <lg>
+               <l>Thou shalt not travell to another Land,</l>
+               <l>For I am she that am at thy command:</l>
+               <l>Thou shalt my deare have no cause to complaine,</l>
+               <l>For I with ioy thy Love will entertaine.</l>
+            </lg>
+            <lg>
+               <l>If thou hadst landed on some forreine shore,</l>
+               <l>Then I would never have enioy'd thee more:</l>
+               <l>But being thou art here arriv'd with me</l>
+               <l>Thou shalt not goe hence dangers for to see.</l>
+            </lg>
+            <lg>
+               <l>What wouldst thou write of me thine own true lovs,</l>
+               <l>Feare not my Love, for I will constant prove,</l>
+               <l>I am thine owne, and so thou still shalt find,</l>
+               <l>To thee I will be loving, true, and kinde.</l>
+            </lg>
+            <lg>
+               <l>As I was faire and lovely in thy sight,</l>
+               <l>So will I prove thy ioy and hearts delight,</l>
+               <l>I will not seeke my dearest love to kill,</l>
+               <l>But I will <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeld vnto thy wished will.</l>
+            </lg>
+            <lg>
+               <l>Sweet I have listened to thy moanes and cryes,</l>
+               <l>Wéepe thou no more, but dry thy watred eyes:</l>
+               <l>The stormes are past and Sun Shines after raine</l>
+               <l>And I doe vow to love thee once againe.</l>
+            </lg>
+            <lg>
+               <l>If thou wert in the raging Seas so wide,</l>
+               <l>Vpon a Dolphins back faine wouldst thou ride:</l>
+               <l>Desiring <hi>Neptunes</hi> succour out of hand,</l>
+               <l>To be thy Pilot to some certaine Land.</l>
+            </lg>
+            <lg>
+               <l>Swéet Love much danger doth abroad ensue,</l>
+               <l>The Seas and wildernesse bid thou adue:</l>
+               <l>Nere seeke to write, or thinke of winde or tide,</l>
+               <l>But live with me, and I will be thy bride.</l>
+            </lg>
+            <lg>
+               <l>Oh stay at home sweet Love, and goe not there,</l>
+               <l>Wilde Beasts in pieces will thy body teare:</l>
+               <l>When I behold them for to sucke thy blood,</l>
+               <l>They shall have mine, my Love, to doe thee good.</l>
+            </lg>
+            <lg>
+               <l>Loe thus to thee my Love I doe make knowne,</l>
+               <l>Vowing hereafter I will be thine owne;</l>
+               <l>Loe stay thy hand my Love and doe-not kill</l>
+               <l>Thy gentle heart, that I could love so well.</l>
+            </lg>
+            <lg>
+               <l>Then strait he tooke his Love into his armes,</l>
+               <l>Which had preserv'd him from such dangerous harms</l>
+               <l>Welcome (quoth he) I love thee as my life,</l>
+               <l>And quickly after he made her his wife.</l>
+            </lg>
+            <lg>
+               <l>Thus have you heard my song of woe and ioy,</l>
+               <l>Let Maids and young men listen to't I pray:</l>
+               <l>Make you no vowes, but have a speciall care,</l>
+               <l>For fear y<seg rend="sup">u</seg> wound your Mates with deep despair</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for F. Coules, dwelling in the Old-Bayly.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
